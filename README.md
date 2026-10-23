@@ -1,2 +1,2 @@
-# miya-vai-rubel
+# miyavairubel
 Official website of MiYa Vai RUBEL
